@@ -1,84 +1,73 @@
-# Linux
-Linux-learning-journey
 # 🐧 Linux Learning Journey
 
-This repository contains my learning progress as I explore Linux fundamentals as part of my DevOps journey.  
-Currently focusing on Ubuntu-based systems, and gradually moving towards Red Hat-based systems too.
-
-📁 Topics Covered in Linux Terminal
-📄 Listing Files
-ls – List directory contents
-
-ls -l – Long listing format (permissions, owner, size, etc.)
-
-ls -a – Show hidden files (starting with .)
-
-ls -lh – Human-readable file sizes (e.g., K, M)
-
-📍 Working Directory
-pwd – Print current (working) directory
-
-📂 Directory Navigation
-cd – Change directory
-
-cd .. – Go one level up
-
-cd ~ – Go to home directory
-
-cd / – Go to root directory
-
-🔑 Administrative Access
-sudo – Run a command as superuser
-
-su – Switch to superuser (login shell)
-
-🔐 File Permissions & Types
-ls -l – Shows permissions (e.g., -rw-r--r--)
-
-chmod – Change file permissions
-
-✏️ Changing Permissions
-chmod 755 file – Owner: read/write/execute; others: read/execute
-
-chmod u+x script.sh – Add execute permission to user
-
-👥 Changing Ownership
-chown user:group file – Change file ownership
-
-📖 Viewing Files
-cat – Print file content
-
-less / more – Scroll through large files
-
-head – View first 10 lines
-
-tail – View last 10 lines
-
-📁 Copying Files & Directories
-cp file1 file2 – Copy file1 to file2
-
-cp -r dir1 dir2 – Copy directory recursively
-
-📦 Moving / Renaming Files
-mv file new_location/ – Move file
-
-mv oldname newname – Rename file/folder
-
-❌ Removing Files & Directories
-rm file – Delete a file
-
-rm -r dir/ – Delete directory and contents
-
-rm -f file – Force delete without prompt
-
-
-
-## 🔄 Weekly Updates
-Learning regularly and updating this repo as I go.
-
-## 📚 Course Reference
-NDG Linux Unhatched – Cisco Networking Academy
+Welcome to my Linux learning repository!  
+This repo is a part of my self-learning journey starting with the **Linux Unhatched** course by Cisco NetAcad and progressing toward more advanced Linux and DevOps concepts.
 
 ---
 
-Stay tuned for more updates as I continue building my DevOps foundation!
+## 📚 About This Repository
+
+This repository includes:
+
+- 📅 **Daily logs** of my Linux learning journey  
+- 💻 Commands I practiced with explanations  
+- 🧠 Notes from self-paced courses, tutorials, and real-world exploration  
+- 🔧 Basic usage of the terminal and common Linux tools  
+- 🐚 Early shell scripting practice (to be added soon)
+
+---
+
+## 🚀 Why This Repo?
+
+I started this journey to:
+
+- Build a **strong foundation in Linux**
+- Document and reinforce my learning
+- Practice real-time Linux commands using VM labs and my local setup
+- Prepare for **DevOps** and cloud roles that require hands-on Linux skills
+
+---
+
+## 🛠️ Tools & Topics Covered
+
+- Terminal & Bash Basics
+- File system navigation
+- Permissions & Ownership
+- Process management
+- System shutdown and reboot
+- Networking basics (`ping`, `ifconfig`)
+- And more being added every day...
+
+---
+
+## 📈 Progress
+
+- ✅ Completed Linux Unhatched by Cisco NetAcad (Scored 28/30 in final exam)
+- 🔄 Updating logs and notes regularly
+- 🔜 Upcoming: Shell scripting & basic automation
+
+---
+
+## 📌 My Goal
+
+This is the **first step** in my broader **DevOps journey**, where Linux is the foundation.  
+I’m planning to move next into:
+
+- Git & GitHub
+- Shell scripting
+- CI/CD tools
+- Cloud platforms (AWS)
+- Docker & Kubernetes
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mayanktamta)
+- 🛠️ [My GitHub](https://github.com/TamtaMayank)
+
+---
+
+**Feel free to explore, use the notes, and follow along with the journey!**  
+If you're also learning Linux, let's connect and grow together. 🚀
+
