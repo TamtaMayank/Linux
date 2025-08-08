@@ -1,7 +1,7 @@
 # 🐧 Linux Learning Journey
 
 Welcome to my Linux learning repository!  
-This repo documents my progress from the basics of Linux (via **Linux Unhatched** by Cisco NetAcad) to more **intermediate-level Linux administration, scripting, and DevOps-focused practices**.
+This repo documents my progress from basic Linux commands to **intermediate-level Linux administration, scripting, and DevOps-focused practices**.
 
 ---
 
@@ -10,8 +10,8 @@ This repo documents my progress from the basics of Linux (via **Linux Unhatched*
 This repository now includes:
 
 - 📅 **Daily and topic-wise logs** of my Linux learning  
-- 💻 Commands with **in-depth explanations and practical use cases**  
-- 🧠 Notes from courses, labs, and real-world scenarios  
+- 💻 Commands with **in-depth explanations and real-world use cases**  
+- 🧠 Notes from hands-on experiments and problem-solving  
 - 🐚 Shell scripting projects and automation examples  
 - ⚙️ System administration, networking, and troubleshooting exercises
 
@@ -46,7 +46,6 @@ I’m continuing this journey to:
 
 ## 📈 Progress
 
-- ✅ Completed **Linux Unhatched** (28/30 final score)  
 - ✅ Learned and applied intermediate Bash scripting concepts  
 - ✅ Explored Linux system administration and troubleshooting  
 - 🔄 Regularly adding **projects, scripts, and notes**  
