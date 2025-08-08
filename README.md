@@ -1,63 +1,70 @@
 # 🐧 Linux Learning Journey
 
 Welcome to my Linux learning repository!  
-This repo is a part of my self-learning journey starting with the **Linux Unhatched** course by Cisco NetAcad and progressing toward more advanced Linux and DevOps concepts.
+This repo documents my progress from the basics of Linux (via **Linux Unhatched** by Cisco NetAcad) to more **intermediate-level Linux administration, scripting, and DevOps-focused practices**.
 
 ---
 
 ## 📚 About This Repository
 
-This repository includes:
+This repository now includes:
 
-- 📅 **Daily logs** of my Linux learning journey  
-- 💻 Commands I practiced with explanations  
-- 🧠 Notes from self-paced courses, tutorials, and real-world exploration  
-- 🔧 Basic usage of the terminal and common Linux tools  
-- 🐚 Early shell scripting practice (to be added soon)
+- 📅 **Daily and topic-wise logs** of my Linux learning  
+- 💻 Commands with **in-depth explanations and practical use cases**  
+- 🧠 Notes from courses, labs, and real-world scenarios  
+- 🐚 Shell scripting projects and automation examples  
+- ⚙️ System administration, networking, and troubleshooting exercises
 
 ---
 
 ## 🚀 Why This Repo?
 
-I started this journey to:
+I’m continuing this journey to:
 
-- Build a **strong foundation in Linux**
-- Document and reinforce my learning
-- Practice real-time Linux commands using VM labs and my local setup
-- Prepare for **DevOps** and cloud roles that require hands-on Linux skills
+- Strengthen my **Linux administration and scripting skills**
+- Document solutions to **real-world Linux challenges**
+- Practice advanced commands, configurations, and automation
+- Build a **solid DevOps skill set** with Linux at its core
 
 ---
 
 ## 🛠️ Tools & Topics Covered
 
-- Terminal & Bash Basics
-- File system navigation
-- Permissions & Ownership
-- Process management
-- System shutdown and reboot
-- Networking basics (`ping`, `ifconfig`)
-- And more being added every day...
+- Advanced Bash commands & scripting
+- User, group & permission management (ACLs, SUID, SGID, sticky bit)
+- File system management (mounting, partitions, disk usage)
+- Process & job scheduling (`cron`, `at`)
+- Package management (APT, YUM/DNF)
+- Networking tools & troubleshooting (`netstat`, `ss`, `scp`, `rsync`)
+- Log monitoring (`journalctl`, `/var/log/`)
+- System services & daemons (`systemctl`)
+- Basic server setup and configuration
+- Secure remote access with SSH & key management
+- And more, added as I explore deeper...
 
 ---
 
 ## 📈 Progress
 
-- ✅ Completed Linux Unhatched by Cisco NetAcad (Scored 28/30 in final exam)
-- 🔄 Updating logs and notes regularly
-- 🔜 Upcoming: Shell scripting & basic automation
+- ✅ Completed **Linux Unhatched** (28/30 final score)  
+- ✅ Learned and applied intermediate Bash scripting concepts  
+- ✅ Explored Linux system administration and troubleshooting  
+- 🔄 Regularly adding **projects, scripts, and notes**  
+- 🔜 Upcoming: **Automation scripts**, server security hardening, and DevOps tool integration
 
 ---
 
 ## 📌 My Goal
 
-This is the **first step** in my broader **DevOps journey**, where Linux is the foundation.  
-I’m planning to move next into:
+This is a **key stage** in my **DevOps journey**, building the bridge between Linux fundamentals and advanced operations.  
+Next steps include:
 
-- Git & GitHub
-- Shell scripting
-- CI/CD tools
-- Cloud platforms (AWS)
+- Git & GitHub (workflow automation)
+- Shell scripting for automation
+- CI/CD tools (Jenkins, GitHub Actions)
+- AWS cloud services
 - Docker & Kubernetes
+- Infrastructure as Code (Terraform, Ansible)
 
 ---
 
@@ -68,6 +75,5 @@ I’m planning to move next into:
 
 ---
 
-**Feel free to explore, use the notes, and follow along with the journey!**  
-If you're also learning Linux, let's connect and grow together. 🚀
-
+**Browse through the scripts, notes, and exercises — and feel free to use or adapt them!**  
+If you’re leveling up your Linux skills too, let’s share knowledge and grow together. 🚀
